@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "@types/jest": "^22.2.3",
     "@types/react": "^16.3.14",
     "@types/react-native": "^0.55.15",
+    "@types/react-test-renderer": "^16.0.1",
     "jest-expo": "~27.0.0",
     "react-native-scripts": "1.14.0",
     "react-native-typescript-transformer": "^1.2.5",
@@ -39,8 +41,10 @@
     "cacheDirectory": ".jest/cache"
   },
   "dependencies": {
+    "@types/react-router-native": "^4.2.2",
     "expo": "^27.0.1",
     "react": "16.3.1",
-    "react-native": "~0.55.2"
+    "react-native": "~0.55.2",
+    "react-router-native": "^4.2.0"
   }
 }

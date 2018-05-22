@@ -1,15 +1,31 @@
 import React from 'react';
 import { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import { NativeRouter, Route, Link, Switch } from 'react-router-native';
+import HomeComponent from './components/home/home.comp';
+import UserComponent from './components/user/user.comp';
+
+const appRoutes: any = [{
+  path: '/',
+  exact: true,
+  component: HomeComponent
+}, {
+  path: '/user',
+  component: UserComponent
+}]
 
 export default class App extends Component {
   render() {
     return (
-      <View style={styles.container}>
-        <Text>Open up App.js to start working on your app!</Text>
-        <Text>Changes you make will automatically reload.</Text>
-        <Text>Dont typescript your tests to open the developer menu.</Text>
-      </View>
+      <NativeRouter>
+        <View style={styles.container}>
+          <Switch>
+              {appRoutes.map( (route: any, i: number) => {
+                return <Route key={i} {...route} />
+              })}
+          </Switch>
+        </View>
+      </NativeRouter>
     );
   }
 }
