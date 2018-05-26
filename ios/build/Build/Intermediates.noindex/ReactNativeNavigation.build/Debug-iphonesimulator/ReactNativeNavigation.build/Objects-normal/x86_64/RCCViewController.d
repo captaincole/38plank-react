@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/RCCViewController.m \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/RCCViewController.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/RCCNavigationController.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/RCCTabBarController.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerController.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMDrawerController.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerProtocol.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/RCCDrawerController/RCCTheSideBarManagerViewController.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/TheSidebarController.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/Animations/SidebarAnimation.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/RCCManager.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/RCCExternalViewControllerProtocol.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/Helpers/RCCTitleViewHelper.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native-navigation/ios/RCCCustomTitleView.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootViewDelegate.h

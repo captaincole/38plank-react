@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.m \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputView.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/andrew/test-workspace/plank38/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/andrew/test-workspace/plank38/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h

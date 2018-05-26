@@ -1,40 +1,27 @@
-import React from 'react';
-import { Component } from 'react';
-import { StyleSheet, Text, View } from 'react-native';
-import { NativeRouter, Route, Link, Switch } from 'react-router-native';
-import HomeComponent from './components/home/home.comp';
-import UserComponent from './components/user/user.comp';
+import HomeScreen from './screens/home/home.screen';
+import UserScreen from './screens/user/user.screen';
+import { Navigation } from 'react-native-navigation';
+import { Platform } from 'react-native';
 
-const appRoutes: any = [{
-  path: '/',
-  exact: true,
-  component: HomeComponent
-}, {
-  path: '/user',
-  component: UserComponent
-}]
+registerScreens()
 
-export default class App extends Component {
-  render() {
-    return (
-      <NativeRouter>
-        <View style={styles.container}>
-          <Switch>
-              {appRoutes.map( (route: any, i: number) => {
-                return <Route key={i} {...route} />
-              })}
-          </Switch>
-        </View>
-      </NativeRouter>
-    );
-  }
+function registerScreens() {
+  Navigation.registerComponent('plank.home', () => HomeScreen);
+  Navigation.registerComponent('plank.user', () => UserScreen);
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: 'white',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+Navigation.startTabBasedApp({
+  tabs: [
+    {
+      label: 'Home',
+      screen: 'plank.home',
+      title: 'Home'
+    },
+    {
+      label: 'User',
+      screen: 'plank.user',
+      title: 'User'
+    }
+  ],
+  animationType: Platform.OS === 'ios' ? 'slide-down' : 'fade',
+})
