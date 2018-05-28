@@ -1,6 +1,6 @@
 import React from 'react';
 import { Component } from 'react';
-import { View, Text, Button } from 'react-native';
+import { View, Text, Button, StyleSheet } from 'react-native';
 
 interface HomeProps {
     match?: any
@@ -28,8 +28,18 @@ export default class HomeScreen extends Component<HomeProps, {}> {
     }
 
     render() {
-        return <View style={{ marginTop: '5%' }}>
-                <Text>Hello Home Page</Text>
+        const pageStyles = StyleSheet.create({
+            container: {
+                height: '100%',
+                width: '100%',
+                display: 'flex',
+                justifyContent: 'center',
+                alignItems: 'center',
+                backgroundColor: 'blue' 
+            }
+        })
+        return <View style={pageStyles.container}>
+                <Text>38Plank Home Again</Text>
             </View>
     }
 }
