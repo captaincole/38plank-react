@@ -35,11 +35,10 @@ export default class HomeScreen extends Component<HomeProps, {}> {
                 display: 'flex',
                 justifyContent: 'center',
                 alignItems: 'center',
-                backgroundColor: 'blue' 
             }
         })
         return <View style={pageStyles.container}>
-                <Text>38Plank Home Again</Text>
+                <Text>38Plank Home</Text>
             </View>
     }
 }

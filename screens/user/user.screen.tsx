@@ -10,7 +10,7 @@ export default class UserScreen extends Component<UserProps, {}> {
 
     render() {
         return <View>
-        <Text>Hello User Page</Text>
+        <Text>38Plank User</Text>
     </View>
     }
 }

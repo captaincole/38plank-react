@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		nVEEe4GkGeUDyfSK/XtYhRB8ZR4=
+		c1bXow9BQRKSIk5W6HJqR2B2pJQ=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -63,7 +63,7 @@
 		</data>
 		<key>PlugIns/plank38Tests.xctest.dSYM/Contents/Resources/DWARF/plank38Tests</key>
 		<data>
-		XALspjemFh+fqTYWgZRJ3mG5hc8=
+		BAXKLfH4r9dSBPCDjOB61dJHVAI=
 		</data>
 		<key>PlugIns/plank38Tests.xctest/Info.plist</key>
 		<data>
@@ -75,7 +75,7 @@
 		</data>
 		<key>PlugIns/plank38Tests.xctest/plank38Tests</key>
 		<data>
-		8ear5TiDZQkOBW54Euf1/BokJaM=
+		WRMKxVVCLpIO18ABY89a/jPUmr0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nVEEe4GkGeUDyfSK/XtYhRB8ZR4=
+			c1bXow9BQRKSIk5W6HJqR2B2pJQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			RgMb5vLWYlpte5S2T1VdCVJkJupzARIMfR90V7tFQCQ=
+			lhPsB83ArWNa7VxpU2JluwD+RSgXTPnW1KqyQuQbWQg=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -207,11 +207,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XALspjemFh+fqTYWgZRJ3mG5hc8=
+			BAXKLfH4r9dSBPCDjOB61dJHVAI=
 			</data>
 			<key>hash2</key>
 			<data>
-			2g9FXAwJtWOgNN/ik69uJAlck3AEnQl8TPulEQMUN9o=
+			/bl+RU8z97ah4hy+hZ9cczSSRyEUBA41SVlSHilzSMg=
 			</data>
 		</dict>
 		<key>PlugIns/plank38Tests.xctest/Info.plist</key>
@@ -240,11 +240,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8ear5TiDZQkOBW54Euf1/BokJaM=
+			WRMKxVVCLpIO18ABY89a/jPUmr0=
 			</data>
 			<key>hash2</key>
 			<data>
-			XC3AmATdX6U7WsIUrb5hzGoVuSjZ5LcFPU6ivIc8BBI=
+			Z30cRG/8X9eLAnDlsWNhj6dhJCqpUPSIvZ5BPT7upuc=
 			</data>
 		</dict>
 	</dict>
